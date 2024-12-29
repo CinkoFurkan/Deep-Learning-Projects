@@ -1,5 +1,4 @@
 
-```markdown
 # Cat or Dog Classifier 🐱🐶
 
 This project contains a Convolutional Neural Network (CNN) built using TensorFlow and Keras to classify images as either a cat or a dog. The model has been trained on a dataset of images, with preprocessing and data augmentation techniques applied to improve performance.

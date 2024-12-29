@@ -1,4 +1,4 @@
-```markdown
+
 # Loan Application Prediction Project
 
 ## Overview
@@ -63,4 +63,4 @@ The early stopping mechanism helped the model converge quickly and prevent overf
 - Implement other machine learning algorithms (e.g., Random Forest, XGBoost) for comparison.
 - Enhance feature engineering for better model accuracy.
 - Deploy the model as a web application or API.
-```
+
