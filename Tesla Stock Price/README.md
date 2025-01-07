@@ -66,6 +66,3 @@ Special thanks to:
 - **Yahoo Finance API** for providing historical stock data.
 - **The open-source community** for libraries used in this project.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
